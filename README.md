@@ -5,7 +5,7 @@
 </div>
 
 
-<div id="badges">
+<!-- <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -15,7 +15,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 
 
 <div>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about anything
+<!-- - 💬 Ask me about anything -->
 - 📫 How to reach me: kia.kasir02@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
