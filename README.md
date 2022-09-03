@@ -45,7 +45,7 @@
 
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently a B.Sc Student of Computer Engineering at Amirkabir University of Technology
 <!-- - 🌱 I’m currently learning ... -->
