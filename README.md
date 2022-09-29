@@ -1,9 +1,8 @@
 ### Hi👋  I'm Kiana Aghakasiri
 
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/koXSuowIxOoXVwdIMZ/giphy.gif" width="100"/>
 </div>
-
 
 <!-- <div id="badges">
   <a href="your-linkedin-URL">
@@ -23,6 +22,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+
   
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
