@@ -48,7 +48,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently a B.Sc Student of Computer Engineering at Amirkabir University of Technology
+- 🔭 I’m currently a M.Sc Student of Computing Science at University of Alberta
 - 🌱 I’m interested in Bioinformatics and neuroscience and subjects related to the use of AI in psychology
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
